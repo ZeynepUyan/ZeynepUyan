@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **frontend**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/zeynepuyan/](https://www.linkedin.com/in/zeynepuyan/)
-
 - 📫 How to reach me **zeynep19uyan@gmail.com**
 
 - ⚡ Fun fact **yes**
