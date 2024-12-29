@@ -7,10 +7,7 @@
 - **Full-Stack Development**: MERN Stack (MongoDB, Express, React, Node.js)  
 
 ## 👀 Tech I'm Passionate About  
-- Responsive Design with **HTML, CSS, Bootstrap, SCSS**  
-- Interactive and user-friendly interfaces with **JavaScript**  
-- Mobile application development using **React Native**  
-- Creating seamless user experiences across platforms  
+I love creating responsive, interactive, and user-friendly applications using modern web technologies.
 
 ## 📫 Get in Touch  
 - Email: [zeynep19uyan@gmail.com](mailto:zeynep19uyan@gmail.com)  
