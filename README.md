@@ -1,12 +1,27 @@
 <h1 align="center">👋 Hello I'm Zeynep Uyan</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-- 🌱 I’m currently learning **FrontEnd | BackEnd | React | React Native | Mobile | Node.js | MernStack |**
+A **passionate Frontend Developer** from Türkiye with a keen interest in crafting beautiful and functional web applications!  
 
-- 👀 I’m interested in **HTML | CSS | Boostrap | SCSS | JavaScript | React Mobile**
+## 🌱 Currently Exploring  
+- **Frontend Development**: HTML, CSS, SCSS, JavaScript  
+- **Modern Libraries & Frameworks**: React, React Native  
+- **Backend Technologies**: Node.js  
+- **Full-Stack Development**: MERN Stack (MongoDB, Express, React, Node.js)  
 
-- 📫 How to reach me **zeynep19uyan@gmail.com**
+## 👀 Tech I'm Passionate About  
+- Responsive Design with **HTML, CSS, Bootstrap, SCSS**  
+- Interactive and user-friendly interfaces with **JavaScript**  
+- Mobile application development using **React Native**  
+- Creating seamless user experiences across platforms  
 
+## 📫 Get in Touch  
+- Email: [zeynep19uyan@gmail.com](mailto:zeynep19uyan@gmail.com)  
+- Let's connect and collaborate!  
+
+---
+
+💻 **“Keep coding, keep growing!”** 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zynpuyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zynpuyan" height="30" width="40" /></a>
