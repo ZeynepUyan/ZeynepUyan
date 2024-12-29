@@ -14,15 +14,15 @@
 💻 **“Keep coding, keep growing!”** 🚀
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/zynpuyan" target="blank">
+<a href="https://twitter.com/zynpuyan" target="blank" style="display: inline-block;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zynpuyan" height="30" width="30" />
 </a>
-<a href="https://linkedin.com/in/zeynepuyan" target="blank">
+<a href="https://linkedin.com/in/zeynepuyan" target="blank" style="display: inline-block;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zeynepuyan" height="30" width="30" />
 </a>
-<a href="https://instagram.com/zynpuyan.html" target="blank">
+<a href="https://instagram.com/zynpuyan.html" target="blank" style="display: inline-block;">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zynpuyan.html" height="30" width="30" />
-</a>
+</a
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
