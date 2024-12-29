@@ -6,8 +6,7 @@
 - **Backend Technologies**: Node.js  
 - **Full-Stack Development**: MERN Stack (MongoDB, Express, React, Node.js)  
 
-## 👀 Tech I'm Passionate About  
-I love creating responsive, interactive, and user-friendly applications using modern web technologies.
+## 👀 Tech I'm Passionate About  I love creating responsive, interactive, and user-friendly applications using modern web technologies.
 
 ## 📫 Get in Touch  
 - Email: [zeynep19uyan@gmail.com](mailto:zeynep19uyan@gmail.com)  
