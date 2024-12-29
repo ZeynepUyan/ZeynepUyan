@@ -1,7 +1,4 @@
 <h1 align="center">👋 Hello I'm Zeynep Uyan</h1>
-<h3 align="center">A passionate frontend developer from Türkiye</h3>
-
-A **passionate Frontend Developer** from Türkiye with a keen interest in crafting beautiful and functional web applications!  
 
 ## 🌱 Currently Exploring  
 - **Frontend Development**: HTML, CSS, SCSS, JavaScript  
