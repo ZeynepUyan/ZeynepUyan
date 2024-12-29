@@ -6,7 +6,7 @@
 - **Backend Technologies**: Node.js  
 - **Full-Stack Development**: MERN Stack (MongoDB, Express, React, Node.js)  
 
-## I love creating responsive, interactive, and user-friendly applications using modern web technologies.
+I love creating responsive, interactive, and user-friendly applications using modern web technologies.
 
 ## 📫 Get in Touch [zeynep19uyan@gmail.com](mailto:zeynep19uyan@gmail.com)   
 
