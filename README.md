@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hello I'm Zeynep Uyan</h1>
 <h4>🌱 Currently Exploring  </h4>
+
 - **Frontend Development**: HTML, CSS, SCSS, JavaScript  
 - **Modern Libraries & Frameworks**: React, React Native  
 - **Backend Technologies**: Node.js  
