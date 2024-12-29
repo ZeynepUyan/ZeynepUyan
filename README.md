@@ -10,7 +10,6 @@ I love creating responsive, interactive, and user-friendly applications using mo
 
 📫 Get in Touch [zeynep19uyan@gmail.com](mailto:zeynep19uyan@gmail.com)   
 
----
 
 💻 **“Keep coding, keep growing!”** 🚀
 <h3 align="left">Connect with me:</h3>
