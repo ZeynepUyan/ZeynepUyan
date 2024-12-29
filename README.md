@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello I'm Zeynep Uyan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Türkiye</h3>
 
 - 🌱 I’m currently learning **FrontEnd | BackEnd | React | React Native | Mobile | Node.js | MernStack |**
 
