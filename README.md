@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello, I'm Zeynep Uyan</h2>
+<h2 align="center">👋 Hello, I'm Zeynep Uyan 💫</h2>
 <h3>🌱 Currently Exploring:  </h3>
 
 - **Frontend Development**: HTML, CSS, SCSS, JavaScript  
